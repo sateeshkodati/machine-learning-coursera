@@ -1,2 +1,3 @@
-#  Machine learning course assignments using octave from Coursera.com
+#  Coursera's Machine Learning Course 
 
+This repo is specially created for all the work done by me as a part of Coursera's Machine Learning Course.
