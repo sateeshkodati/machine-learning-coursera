@@ -1,0 +1,7 @@
+wordnik*.zip
+.DS_STORE
+version.properties
+reports/*
+.idea
+.project
+.vscode
